@@ -1,0 +1,3 @@
+﻿Dobbiamo decidere in base alla piattaforma sulla quale vogliamo sviluppare come si deve comportare l'aspect ratio; se per esempio sviluppiamo su IPad il formato sarà 4:3
+Se volgio scalare gli oggetti in base all'aspect ratio devo fare un semplice calcolo che sarà: Es. width LevelCanvas = 1600 pixels se voglio mettere un oggetto che rispetti
+l'aspect ratio dovrò fare 1600*3/4 che mi darà 1200 pixel

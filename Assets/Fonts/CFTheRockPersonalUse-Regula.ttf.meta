@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5debd9c095e6e52438c8e324592f3fdc
+timeCreated: 1517752166
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 18
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: CF The Rock Personal Use
+  fontNames:
+  - CF The Rock Personal Use
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

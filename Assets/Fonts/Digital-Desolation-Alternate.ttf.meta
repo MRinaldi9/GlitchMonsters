@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d592d8eccce32b54e955949f9635f69f
+timeCreated: 1520088704
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Digital Desolation
+  fontNames:
+  - Digital Desolation
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a8961e7a7594ea04a8b0791c486b4f6a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
